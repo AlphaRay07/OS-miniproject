@@ -11,6 +11,7 @@
 #include <linux/mm.h>
 #include <linux/sched/signal.h>
 #include "monitor_shared.h"
+#include "../shared/monitor_shared.h"
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Manav");
